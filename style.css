@@ -79,6 +79,7 @@ section{
     background-color: #FFFBEB;   
     padding: 0.5rem 2.5rem;
     text-shadow:0 0 10px rgba(0,0,0,0.3);
+    border-radius: 1rem ;
 
     box-shadow: 5px 5px 15px black;
     top:50%;
